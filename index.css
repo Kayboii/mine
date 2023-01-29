@@ -1,0 +1,27 @@
+#cat
+{
+    font-family: monospace;
+    font-size: 30px;
+}
+body
+{
+background-image: url(./pexels-lisa-fotios-1182338.jpg);
+}
+#frog
+{
+    border-radius: 500px;
+}
+#tunde
+{
+    background-color: black;
+}
+#van
+{
+    background-color: black;
+    border-radius: 50px;
+}
+#ki
+{
+    background-color: black;
+    border-radius: 50px;
+}
